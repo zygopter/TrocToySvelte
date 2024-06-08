@@ -1,6 +1,7 @@
 <nav class="NavBar">
   <a href="/">Home</a>
   <a href="/create-article">Create Article</a>
+  <a href="/profile">Profile</a>
 </nav>
 
 <style>

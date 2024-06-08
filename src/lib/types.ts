@@ -9,3 +9,11 @@ export interface Article {
   };
   photos: string[];
 }
+
+export interface User {
+  id: string;
+  name: string;
+  email: string;
+  photo: string;
+  location: string;
+}
